@@ -9,7 +9,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
       <h1 className="text-3xl font-bold text-rose-700">
-      Hello world From Next JS 
+      Hello world From Next JS Tailwind Css
     </h1>
     
         <p>
